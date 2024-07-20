@@ -31,7 +31,7 @@ The code is structured within a Jupyter Notebook, allowing for interactive explo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/<your_username>/face_shape_detection.git
+   git clone https://github.com/LordAzezl/Face-Shape-detection-and-hairstyle-recommendation.git
    ```
 
 2. **Install Libraries:**
